@@ -1,5 +1,5 @@
 
-#About me
+# About me
 Hi 👋, I am Gavin Palmer, I am a App Developer and Web Designer with passion for tech and design. With a career spanning many years, I have worked with companies of all sizes, while also bringing the dreams of many individuals to life. I bring to you creativity and professionalism to the software development process.
 
 ## 🌐 Socials:
