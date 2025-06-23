@@ -3,7 +3,7 @@
 Hi 👋, I am Gavin Palmer, I am a App Developer and Web Designer with passion for tech and design. With a career spanning many years, I have worked with companies of all sizes, while also bringing the dreams of many individuals to life. I bring to you creativity and professionalism to the software development process.
 
 ## 🌐 Website:
-<h3><a href="http://gavinpalmer.dev?utm_medium=referral&utm_source=github&utm_campaign=github_profile_home">www.gavinpalmer.dev</a></h3>
+<h3><a href="https://gavinpalmer.dev/?utm_medium=referral&utm_source=github&utm_campaign=github_profile_home">www.gavinpalmer.dev</a></h3>
 
 
 ## 🔔 Socials:
