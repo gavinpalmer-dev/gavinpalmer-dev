@@ -2,6 +2,14 @@
 # About me
 Hi 👋, I am Gavin Palmer, I am a App Developer and Web Designer with passion for tech and design. With a career spanning many years, I have worked with companies of all sizes, while also bringing the dreams of many individuals to life. I bring to you creativity and professionalism to the software development process.
 
+<center>
+<h3>
+website:
+<br/>
+<a href="http://www.gavinpalmer.dev">www.gavinpalmer.dev</a>
+</h3>
+</center>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dynamicevolution.technology) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gavin-palmer-gp/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gavinpalmer.me) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gavin_palmer_gp@hotmail.com) 
 
